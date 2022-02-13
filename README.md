@@ -1,4 +1,4 @@
-### Hi everyone, I'm Léo ###
+### Hi everyone, I'm Léopold SG ###
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Leouuk.Leouuk)
 
