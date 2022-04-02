@@ -15,7 +15,7 @@
 - 📧 leopold.sallan-gemard@epitech.eu
 
 ## 🎓 my studies
-- Currently studying at Epitech.
+- Currently studying at Epitech. (RNCP Level 7 title)
 - TOEIC 720
 
 ## 💬 my langages
