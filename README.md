@@ -18,7 +18,7 @@
 - Currently studying at Epitech. (RNCP Level 7 title)
 - TOEIC 720
 
-## 💬 my langages
+## 💬 my languages
 - C
 - Bash
 - ...
