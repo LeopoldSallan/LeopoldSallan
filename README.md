@@ -3,13 +3,14 @@
 <h2>💻 Software Development Projects:</h2>
 (Epitech 1st year)
 
-- <b>Algorithms project(s)</b>
-  - algorithm
+- <b>Algorithms projects</b>
+  - [some algorithm projects repository in coming]
 
-- <b>Shell programming project(s)</b>
-  - shell
+- <b>Shell programming projects</b>
+  - [shell project repository in coming]
 <!-- insertion lien vers repo : [Praciting Algos in C](https://github.com/joshmadakor1/Algorithms-Practice) -->
-
+- <b>Others programming projects</b>
+  - [others projects repository in coming]
 <h2> 👤 About </h2>
 
 -   🌍  I'm based in France
