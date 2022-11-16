@@ -9,8 +9,6 @@
 - <b>Shell programming projects</b>
   - [shell project repository in coming]
 <!-- insertion lien vers repo : [Praciting Algos in C](https://github.com/joshmadakor1/Algorithms-Practice) -->
-- <b>Others programming projects</b>
-  - [others projects repository in coming]
 <h2> 👤 About </h2>
 
 -   🌍  I'm based in France
