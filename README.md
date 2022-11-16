@@ -1,7 +1,6 @@
 <h1>Hi, I'm Léo ! <br/><a href="https://github.com/Leouuk">Young Programmer</a>, <a href="https://www.linkedin.com/in/léopold-sallan-3601011a9/">Epitech IT student</a>, and Cybersecurity interested</h1>
 
 <h2>💻 Software Development Projects:</h2>
-(Epitech 1st year)
 
 - <b>Algorithms projects</b>
   - [some algorithm projects repository in coming]
