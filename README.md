@@ -1,18 +1,8 @@
 <h1>Hi, I'm Léo ! <br/><a href="https://github.com/Leouuk">Young Programmer</a>, <a href="https://www.linkedin.com/in/léopold-sallan-3601011a9/">Epitech IT student</a>, and Cybersecurity interested</h1>
 
-<h2>💻 Software Development Projects:</h2>
-
-- <b>Algorithms projects</b>
-  - [some algorithm projects repository in coming]
-
-- <b>Shell programming projects</b>
-  - [shell project repository in coming]
-<!-- insertion lien vers repo : [Praciting Algos in C](https://github.com/joshmadakor1/Algorithms-Practice) -->
-<h2> 👤 About </h2>
-
 -   🌍  I'm based in France
 -   ✉️  How to reach me: [leopold.sallan-gemard+github@epitech.eu](mailto:leopold.sallan-gemard+github@epitech.eu)
--   🧠  I'm currently learning: C, C++, Java, Apex ..
+-   🧠  I'm currently learning: Java, Apex.
 -   ✍  I’m currently working on: Salesforce API integration (with Apex), LWC development & others.
 -   🤟  Hobbies: sport, friends, CTF (THM platform), handiwork & cultural activities.
 
