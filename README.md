@@ -17,8 +17,6 @@ src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/publi
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="LeopoldSallanGemard | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: [www.linkedin.com/in/léopold-sallan-3601011a9](https://www.linkedin.com/in/l%C3%A9opold-sallan-3601011a9/)
+<a href="https://www.linkedin.com/in/l%C3%A9opold-sallan-3601011a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="l%C3%A9opold-sallan-3601011a9" height="30" width="40" /></a>
 
 <a href="https://www.github.com/Leouuk" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Leouuk?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
