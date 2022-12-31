@@ -2,9 +2,8 @@
 
 -   🌍  I'm based in France
 -   ✉️  How to reach me: [leopold.sallan-gemard+github@epitech.eu](mailto:leopold.sallan-gemard+github@epitech.eu)
--   🧠  I'm currently learning: Java, Apex.
--   ✍  I’m currently working on: Salesforce API integration (with Apex), LWC development & others.
--   🤟  Hobbies: sport, friends, CTF (THM platform), handiwork & cultural activities.
+-   🧠  I'm currently learning : Java & Apex.
+-   🤟  Hobbies: sport, friends hang out, CTF (THM platform), handiwork & cultural activities.
 
 <h2> 👨‍🔧 My languages </h2>
 
