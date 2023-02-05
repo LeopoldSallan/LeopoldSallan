@@ -1,7 +1,7 @@
 <h1>Hi, I'm Léo ! <br/><a href="https://github.com/Leouuk">Young Programmer</a>, <a href="https://www.linkedin.com/in/léopold-sallan-3601011a9/">Epitech IT student</a>, and Cybersecurity interested</h1>
 
 -   🌍  I'm based in France
--   ✉️  How to reach me: [leopold.sallan-gemard+github@epitech.eu](mailto:leopold.sallan-gemard+github@epitech.eu)
+-   ✉️  How to reach me: [leopold.sallan-gemard@epitech.eu](mailto:leopold.sallan-gemard+github@epitech.eu)
 -   🧠  I'm currently learning : Java & Apex.
 -   🤟  Hobbies: sport, friends hang out, CTF (THM platform), handiwork & cultural activities.
 
