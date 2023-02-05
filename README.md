@@ -2,7 +2,6 @@
 
 -   🌍  I'm based in France
 -   ✉️  How to reach me: [leopold.sallan-gemard@epitech.eu](mailto:leopold.sallan-gemard+github@epitech.eu)
--   🧠  I'm currently learning : Java & Apex.
 -   🤟  Hobbies: sport, friends hang out, CTF (THM platform), handiwork & cultural activities.
 
 <h2> 👨‍🔧 My languages </h2>
