@@ -17,4 +17,4 @@ src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/publi
 
 <a href="https://www.linkedin.com/in/l%C3%A9opold-sallan-3601011a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="l%C3%A9opold-sallan-3601011a9" height="30" width="40" /></a>
 
-<a href="https://www.github.com/Leouuk" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Leouuk?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<img align="left" src="https://komarev.com/ghpvc/?username=sosantoo&label=Profile%20views&color=16c313&style=flat" alt="sosantoo" />
