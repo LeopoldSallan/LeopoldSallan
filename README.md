@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <samp>
-  Hello, I'm a developer passionate about technology and its applications in the world. I'm interested in software, IT, cyber security, secops, and related fields. I'm always learning new things and trying to improve my skills.
+  Hello, I'm a developer passionate about technology and its applications in the world. I'm interested in programming (software and web), cyber security, secops, and related fields. I'm always learning new things and trying to improve my skills.
   🌍  I'm based in France.
   🤟  Hobbies: sport, friends hang out, CTF (THM platform), handiwork & cultural activities.
   </samp>
