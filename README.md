@@ -8,7 +8,6 @@
   <p align="center">
   <samp>
   I am passionate about technology and its applications in the world. I'm always learning new things and trying to improve myself and my skills.
-  🌍  I'm based in France.
   </samp>
 <h2 align="center">Get in Touch</h2>
 <p align="center">
