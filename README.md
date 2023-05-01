@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <samp>
-  Hello, I'm a developer passionate about technology and its applications in the world. I'm always learning new things and trying to improve my skills.
+  I am a developer passionate about technology and its applications in the world. I'm always learning new things and trying to improve my skills.
   🌍  I'm based in France.
   </samp>
 <h2 align="center">Get in Touch</h2>
