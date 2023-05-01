@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm leo !</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sosantoo&label=Profile%20views&color=16c313&style=flat" alt="sosantoo"/>
+  <img src="https://komarev.com/ghpvc/?username=sosantoo&label=Profile%20views&color=blueviolet&style=flat" alt="sosantoo"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sosantoo&show_icons=true&hide_border=true&theme=radical" />
