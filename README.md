@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Léo !</h1>
+<h1 align="center">Hi, I'm leo !</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Developer-leo-brightgreen" alt="Developer"/>
   <img src="https://komarev.com/ghpvc/?username=sosantoo&label=Profile%20views&color=16c313&style=flat" alt="sosantoo"/>
