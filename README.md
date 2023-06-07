@@ -4,7 +4,7 @@
 </p>
 
 - 📍 Based in France, Bordeaux. <br/>
-- 🏫 I am currently studying at Epitech and open to work as a *Freelance*, and/or willing to contribute to open-source projects.
+- 🏫 I am currently studying at Epitech and open to work as a *Freelance* (Web developer), and/or willing to contribute to open-source projects.
 - ✉️ You can contact me at [leoukk@proton.me](mailto:leoukk@proton.me)
 
 ###
