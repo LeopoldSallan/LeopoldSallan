@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm leo !</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=j0kerini&label=Profile%20views&color=blueviolet&style=flat" alt="sosantoo"/>
+  <img src="https://komarev.com/ghpvc/?username=sgLeopold&label=Profile%20views&color=blueviolet&style=flat" alt="sosantoo"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j0kerini&show_icons=true&hide_border=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sgLeopold&show_icons=true&hide_border=true&theme=radical" />
   </p>
   <p align="center">
   <samp>
