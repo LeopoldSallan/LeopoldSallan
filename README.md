@@ -2,9 +2,19 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sgLeopold&label=Profile%20views&color=blueviolet&style=flat" alt="sosantoo"/>
 </p>
+
+- 📍 Based in France, Bordeaux. <br/>
+- 🏫 I am currently studying at Epitech and open to work as a *Freelance*, and/or willing to contribute to open-source projects.
+- ✉️ You can contact me at [leoukk@proton.me](mailto:leoukk@proton.me)
+
+###
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sgLeopold&show_icons=true&hide_border=true&theme=radical" />
   </p>
+  
+###
+  
   <p align="center">
   <samp>
   I am passionate about technology and its applications in the world. I'm always learning new things and trying to improve myself and my skills.
