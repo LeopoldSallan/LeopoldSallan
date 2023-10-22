@@ -1,27 +1,17 @@
-<h1 align="center">Hi, I'm leo !</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sgLeopold&label=Profile%20views&color=blueviolet&style=flat" alt="sosantoo"/>
-</p>
+# Hi, I'm leo !
 
-- 📍 Based in France, Bordeaux. <br/>
-- 🏫 I am currently studying at Epitech and open to work as a *Freelance* (front-end | back-end developer), and/or willing to contribute to open-source projects.
+I am passionate about technology and its applications in the world. I'm always learning new things and trying to improve myself and my skills.
+
+## Contact
+
+- 📍 Based in France, Gironde.
+- 🏫 I am currently studying at Epitech and open to work as a *Freelance* (front-end || back-end developer), and/or willing to contribute to open-source projects.
 - ✉️ You can contact me at [leopold.sallan-gemard@epitech.eu](mailto:leopold.sallan-gemard@epitech.eu)
+- ❌ [@0xStash_](https://twitter.com/0xStash_)
+- [Linkedin](https://www.linkedin.com/in/leopold-sallan-gemard/)
 
-###
+## Stats
 
-<h2 align="center">Github Statistics</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sgLeopold&show_icons=true&hide_border=true&theme=radical" />
-</div>
-  
-###
-  
-  <p align="center">
-  <samp>
-  I am passionate about technology and its applications in the world. I'm always learning new things and trying to improve myself and my skills.
-  </samp>
-<h2 align="center">Get in Touch</h2>
-<p align="center">
-    <a href="https://www.linkedin.com/in/léopold-sallan-3601011a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="léopold-sallan-3601011a9" height="30" width="40" /></a>
-  <a href="https://mywebsite.com"><img src="https://img.shields.io/badge/-incomingwebsite.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+[![Github Statistics](https://github-readme-stats.vercel.app/api?username=sgLeopold&count_private=true&show_icons=true&hide_border=true&theme=radical)](https://github.com/sgLeopold)
+[![Main Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=sgLeopold&layout=compact&count_private=true&theme=radical)](https://github.com/sgLeopold)
+[![Profile View Counter](https://komarev.com/ghpvc/?username=sgLeopold)](https://github.com/sgLeopold)
