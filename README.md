@@ -5,7 +5,7 @@
 
 - 📍 Based in France, Bordeaux. <br/>
 - 🏫 I am currently studying at Epitech and open to work as a *Freelance* (front-end | back-end developer), and/or willing to contribute to open-source projects.
-- ✉️ You can contact me at [leoukk@proton.me](mailto:leoukk@proton.me)
+- ✉️ You can contact me at [leopold.sallan-gemard@epitech.eu](mailto:leopold.sallan-gemard@epitech.eu)
 
 ###
 
@@ -25,5 +25,3 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/léopold-sallan-3601011a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="léopold-sallan-3601011a9" height="30" width="40" /></a>
   <a href="https://mywebsite.com"><img src="https://img.shields.io/badge/-incomingwebsite.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-
-  
