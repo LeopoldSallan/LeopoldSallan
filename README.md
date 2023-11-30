@@ -1,7 +1,6 @@
 # Hi, I'm leo !
 
-I am passionate about technology and its applications in the world. I'm always learning new things and trying to improve myself and my skills.
-
+Computer science student, I am passionate about technology and its applications in the world. I'm always learning new things and trying to improve myself.
 ## Contact
 
 - 📍 Based in France.
