@@ -5,7 +5,7 @@ Computer science student, I am passionate about technology and its applications 
 
 - 📍 Based in France.
 - 📚 Currently working with Typescript.
-- 🏫 I am currently studying at Epitech and open to work as a *Freelance* (front-end, back-end), and/or willing to contribute to open-source projects.
+- 🏫 I am studying at Epitech and open to work as a *Freelance* (front-end, back-end), and/or willing to contribute to open-source projects.
 
 ## Contact
 - ✉️ You can contact me at [leopold.sallan-gemard@epitech.eu](mailto:leopold.sallan-gemard@epitech.eu)
