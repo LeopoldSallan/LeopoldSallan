@@ -4,7 +4,7 @@ Computer science student, I am passionate about technology and its applications 
 ## Me
 
 - 📍 Based in France.
-- 📚 Currently working with Typescript.
+- 🌱 Currently working with Typescript and working on a Flutter startup project.
 - 🏫 I am studying at Epitech and open to work as a *Freelance* (front-end, back-end), and/or willing to contribute to open-source projects.
 
 ## Contact
