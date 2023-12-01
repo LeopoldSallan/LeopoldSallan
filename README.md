@@ -13,4 +13,5 @@ I am passionate about technology and its applications in the world. I'm always l
 - [Linkedin](https://www.linkedin.com/in/leopold-sallan-gemard/)
 
 [![Github Statistics](https://github-readme-stats.vercel.app/api?username=sgLeopold&count_private=true&show_icons=true&hide_border=true&theme=radical)](https://github.com/sgLeopold)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgLeopold&layout=compact&count_private=true&theme=radical)](https://github.com/sgLeopold)
 [![Profile View Counter](https://komarev.com/ghpvc/?username=sgLeopold)](https://github.com/sgLeopold)
