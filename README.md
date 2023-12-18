@@ -4,8 +4,8 @@ I am passionate about technology and its applications in the world. I'm always l
 ## Me
 
 - 📍 Based in France.
-- 🌱 Currently working on a Flutter startup project and learning adonisJS framework.
-- 🏫 I am studying at Epitech and open to work as a *Freelance* (front-end, back-end), and/or willing to contribute to open-source projects.
+- 🌱 Currently working on a Flutter startup project and learning AdonisJS framework & Typescript environment.
+- 🏫 I am studying at Epitech and open to work as a *Freelance* (back-end), and/or willing to contribute to open-source projects.
 
 ## Contact
 - ✉️ You can contact me at [leopold.sallan-gemard@epitech.eu](mailto:leopold.sallan-gemard@epitech.eu)
