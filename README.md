@@ -4,7 +4,7 @@ I am passionate about technology and its applications in the world. I'm always l
 ## Me
 
 - 📍 Based in France.
-- 🌱 Currently working on a Flutter startup project and learning AdonisJS framework & Typescript environment.
+- 🌱 Currently working on a Flutter project and learning AdonisJS framework & Typescript environment.
 - 🏫 I am studying at Epitech and open to work as a *Freelance* (back-end), and/or willing to contribute to open-source projects.
 
 ## Contact
