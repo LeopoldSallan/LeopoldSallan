@@ -1,11 +1,11 @@
-# Hi, I'm leo, a computer science student
+# Hi, I'm leo, a software engineering student
 
 I am passionate about technology and its applications in the world. I'm always learning new things and trying to improve myself.
 ## Me
 
 - 📍 Based in France.
-- 🌱 Currently working on a Flutter project and learning AdonisJS framework & Typescript environment.
-- 🏫 I am studying at Epitech and open to work as a *Freelance* (back-end), and/or willing to contribute to open-source projects.
+- 🌱 Currently working on internship as a backend developer using FastAPI. Learning AdonisJS framework & Typescript environment.
+- 🏫 I am studying at Epitech and open to work as a *Freelance* (preferred back-end focus work), and/or willing to contribute to open-source projects.
 
 ## Contact
 - ✉️ You can contact me at [leopold.sallan-gemard@epitech.eu](mailto:leopold.sallan-gemard@epitech.eu)
