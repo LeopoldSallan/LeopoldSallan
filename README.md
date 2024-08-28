@@ -1,6 +1,6 @@
 # Hi, I'm leo, a software engineering student
 
-## I am passionate about technology and its applications in the world. I'm always learning new things and trying to improve myself.
+I am passionate about technology and its applications in the world. I'm always learning new things and trying to improve myself.
 
 - 📍 Based in France.
 - 🌱 Currently doing international exchange program at Chitkara University in India to study Front End Engineering and Blockchain. Learning AdonisJS framework & Typescript environment.
