@@ -3,7 +3,7 @@
 I am passionate about technology and its applications in the world. I'm always learning new things and trying to improve myself.
 
 - 📍 Based in France.
-- 🚂 Currently doing international exchange program at Chitkara University in India to study Front End Engineering and Blockchain.
+- 🚂 2024-2025 international exchange program in India to study Front End Engineering and Blockchain.
 - 🌱 Learning AdonisJS framework & Typescript environment to the side.
 - 🏫 Open to work as a *Freelance* (preferred back-end), and/or willing to contribute to open-source projects.
 
