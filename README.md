@@ -1,7 +1,5 @@
 # Hi, I'm leo, a software engineering student
 
-I am passionate about technology and its applications in the world. I'm always learning new things and trying to improve myself.
-
 - 📍 Based in France.
 - 🚂 Epitech student, 2024-2025 international exchange program in India to study Front End Engineering and Blockchain.
 - 🌱 Learning AdonisJS framework & Typescript environment to the side.
